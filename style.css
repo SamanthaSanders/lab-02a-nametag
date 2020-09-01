@@ -1,0 +1,48 @@
+body {
+    background: #40E0D0;
+    font-family: 'Special Elite', cursive;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+} 
+
+main{ 
+    background: #008080;
+    border-radius: 5px;
+    width: 375px;
+    text-align: center;
+
+}
+.top{
+    background:#008080;
+    height: 120px;
+    border-radius: 5px;
+}
+
+.middle{
+    background: white;
+    height: 115px;
+    font-family: 'Dancing Script', cursive;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+
+}
+
+.bottom {
+    height: 20px;
+    border-radius: 5px;
+
+}
+
+.hello {
+    font-size: 2rem;
+    line-height: .25;
+}
+
+.my-name-is {
+    font-size: 3rem;
+}
